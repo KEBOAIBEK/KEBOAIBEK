@@ -8,4 +8,4 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KEBOAIBEK)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KEBOAIBEK&theme=dark&border_radius=5.4&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
