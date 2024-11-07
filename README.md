@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KEBOAIBEK&theme=dark&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KEBOAIBEK&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
